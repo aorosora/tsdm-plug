@@ -2,7 +2,7 @@ from selenium import webdriver
 import time
 import utils
 
-sign_page = 'https://www.tsdm.live/plugin.php?id=dsu_paulsign:sign'
+sign_page = 'https://www.tsdm39.net/plugin.php?id=dsu_paulsign:sign'
 content = 'happy tsdm, happy me'
 
 print("start signing...")
