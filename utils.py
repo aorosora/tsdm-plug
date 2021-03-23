@@ -3,7 +3,7 @@ import pickle
 import time
 import os
 
-login_page = 'https://www.tsdm.live/member.php?mod=logging&action=login'
+login_page = 'https://www.tsdm39.net/member.php?mod=logging&action=login'
 
 
 def get_cookies():
