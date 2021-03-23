@@ -4,7 +4,7 @@ from selenium.common.exceptions import NoSuchElementException
 import utils
 import time
 
-work_page = 'https://www.tsdm.live/plugin.php?id=np_cliworkdz:work'
+work_page = 'https://www.tsdm39.net/plugin.php?id=np_cliworkdz:work'
 
 print("start working...")
 while True:
